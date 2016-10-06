@@ -1,2 +1,2 @@
 # WhatsAppStartmenuShortcut
-Creates a shortcut into the Windows start menu to a standalone version of the WhatsApp Web client
+Places a shortcut to a standalone version of the WhatsApp Web client into the Windows start menu.
